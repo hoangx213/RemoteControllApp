@@ -1,0 +1,3 @@
+include ':app'
+include ':app:project_libs:socket.io-client.java-master'
+include ':app:project_libs:socket.io-java-client'
